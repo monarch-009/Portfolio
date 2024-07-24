@@ -5,7 +5,6 @@ import {
   FacebookRounded,
   Instagram,
   LinkedIn,
-  Twitter,
 } from "@mui/icons-material";
 import XIcon from '@mui/icons-material/X';
 const FooterContainer = styled.div`

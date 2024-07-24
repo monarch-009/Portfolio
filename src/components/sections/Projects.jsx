@@ -143,6 +143,7 @@ const Projects = () => {
             .map((project) => (
               <ProjectCard project={project} />
             ))}
+            <h2 style={{color: "red"}}> projects coming soon...</h2>
         </CardContainer>
       </Wrapper>
     </Container>
